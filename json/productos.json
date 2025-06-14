@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "nombre": "Arroz Blanco Gallo Oro 1kg",
+        "precio": 3200,
+        "categoria": "Almacén",
+        "stock": 150,
+        "descripcion": "Arroz premium de grano largo, cultivado en Entre Ríos. Ideal para risottos, guarniciones y paellas. Enriquecido con vitaminas. Tiempo de cocción: 18 minutos. Producto libre de gluten."
+    },
+    {
+        "id": 2,
+        "nombre": "Cereal Granix Integral 500g",
+        "precio": 4800,
+        "categoria": "Desayuno",
+        "stock": 90,
+        "descripcion": "Mezcla de trigo, avena y cebada integral con miel orgánica de Santiago del Estero. Alto contenido en fibra (15g por porción). Apto vegano. Presentación en bolsa resellable para mayor frescura."
+    },
+    {
+        "id": 3,
+        "nombre": "Pimienta Negra Alicante Molida 50g",
+        "precio": 2750,
+        "categoria": "Especias",
+        "stock": 75,
+        "descripcion": "Pimienta negra de cultivo sustentable en Misiones, molida en frío para conservar su aroma. Intensidad media-alta. Ideal para carnes, salsas y marinados. Envase con dispensador para mejor dosificación."
+    },
+    {
+        "id": 4,
+        "nombre": "Aceite de Oliva Extra Virgen Natura 500ml",
+        "precio": 12500,
+        "categoria": "Almacén",
+        "stock": 60,
+        "descripcion": "Extraído en frío de aceitunas mendocinas, acidez menor a 0.8%. Notas frutadas con leve amargor. Ideal para ensaladas y dips. Envase oscuro con protección UV para conservar propiedades. Certificado orgánico."
+    },
+    {
+        "id": 5,
+        "nombre": "Muesli con Frutos Rojos Dietético 400g",
+        "precio": 6800,
+        "categoria": "Desayuno",
+        "stock": 85,
+        "descripcion": "Mezcla premium de avena, almendras, nueces y arándanos deshidratados sin azúcar añadido. Endulzado con stevia. Fuente de omega 3 y antioxidantes. Porción recomendada: 50g con yogur o leche vegetal."
+    },
+    {
+        "id": 6,
+        "nombre": "Orégano Deshidratado La Campagnola 25g",
+        "precio": 1850,
+        "categoria": "Especias",
+        "stock": 110,
+        "descripcion": "Orégano seleccionado de huertas patagónicas, secado a baja temperatura. Aroma intenso, perfecto para pizzas, pastas y aderezos. Libre de agroquímicos. Rendimiento aproximado: 100 usos por envase."
+    },
+    {
+        "id": 7,
+        "nombre": "Lentejas Remojadas Noque 500g",
+        "precio": 2900,
+        "categoria": "Legumbres",
+        "stock": 120,
+        "descripcion": "Lentejas pardinas pre-remojadas que reducen el tiempo de cocción a 15 minutos. Alto contenido en hierro y proteínas vegetales. Cultivadas en Córdoba con riego controlado. Incluye recetario nutricional."
+    },
+    {
+        "id": 8,
+        "nombre": "Galletas de Arroz Integrales Tía Maruca 200g",
+        "precio": 4200,
+        "categoria": "Desayuno",
+        "stock": 95,
+        "descripcion": "Elaboradas con arroz integral de la Pampa Húmeda. Sin conservantes, bajas en sodio. Ideales para meriendas saludables o acompañamiento de quesos. Presentación en paquete hermético con 20 unidades."
+    },
+    {
+        "id": 9,
+        "nombre": "Canela Molida Don Carlos 40g",
+        "precio": 3200,
+        "categoria": "Especias",
+        "stock": 65,
+        "descripcion": "Canela de Ceilán en polvo extrafino, con certificación de comercio justo. Aroma dulce y penetrante, perfecta para postres, cafés y smoothies. Envase al vacío para máxima conservación del aroma."
+    },
+    {
+        "id": 10,
+        "nombre": "Atún al Natural Campagnola 170g",
+        "precio": 5800,
+        "categoria": "Conservas",
+        "stock": 70,
+        "descripcion": "Filetes de atún claro capturado en el Atlántico Sur, envasado al natural. Alto contenido en proteínas (25g por lata). Sin conservantes añadidos. Certificado por ANMAT como bajo en mercurio."
+    },
+    {
+        "id": 11,
+        "nombre": "Copos de Avena Arrollada San Javier 1kg",
+        "precio": 3800,
+        "categoria": "Desayuno",
+        "stock": 130,
+        "descripcion": "Avena 100% integral procesada en Entre Ríos. Fuente natural de fibra soluble. Ideal para porridge, granolas y repostería saludable. Tiempo de cocción: 5 minutos. Presentación en bolsa con cierre hermético."
+    },
+    {
+        "id": 12,
+        "nombre": "Pimentón Ahumado La Española 80g",
+        "precio": 4500,
+        "categoria": "Especias",
+        "stock": 55,
+        "descripcion": "Pimentón especial ahumado con maderas de quebracho, proceso artesanal. Color rojo intenso y sabor característico. Perfecto para chorizos, guisos y papas. Producto kosher y sin gluten."
+    },
+    {
+        "id": 13,
+        "nombre": "Garbanzos Remojados Legumbres Argentinas 500g",
+        "precio": 3100,
+        "categoria": "Legumbres",
+        "stock": 80,
+        "descripcion": "Garbanzos seleccionados de cultivos sanjuaninos, pre-remojados para cocción rápida (20 minutos). Alto contenido en proteínas y minerales. Incluye recetas de hummus tradicional y variaciones modernas."
+    },
+    {
+        "id": 14,
+        "nombre": "Mermelada de Frutilla Sin Azúcar Light 390g",
+        "precio": 5200,
+        "categoria": "Desayuno",
+        "stock": 45,
+        "descripcion": "Elaborada con frutillas de Bariloche, endulzada con jugo de manzana concentrado. 40% menos calorías que versiones tradicionales. Sin colorantes ni conservantes artificiales. Certificación vegana."
+    },
+    {
+        "id": 15,
+        "nombre": "Comino Molido Especias del Plata 50g",
+        "precio": 2950,
+        "categoria": "Especias",
+        "stock": 40,
+        "descripcion": "Comino de cultivo ecológico en La Rioja, molido en el momento del envasado. Aroma terroso intenso, esencial para currys, guisos y carnes. Envase con doble protección contra la humedad."
+    },
+    {
+        "id": 16,
+        "nombre": "Salmón Rosado Ahumado Mar del Plata 200g",
+        "precio": 18500,
+        "categoria": "Pescadería",
+        "stock": 30,
+        "descripcion": "Lonjas premium de salmón de criadero sustentable en Puerto Madryn, ahumado en frío con maderas nativas. Alto en omega-3. Presentación al vacío con abrefácil. Consumir preferentemente dentro de los 7 días posteriores a la apertura."
+    },
+    {
+        "id": 17,
+        "nombre": "Barritas de Cereal Granix Multigrano Pack x6",
+        "precio": 6400,
+        "categoria": "Desayuno",
+        "stock": 150,
+        "descripcion": "Mezcla de 7 cereales con miel y semillas de chía. Sin azúcar añadido, apto para diabéticos. Cada barrita aporta 5g de proteína. Presentación ecológica en caja reciclable. Ideal para deportistas."
+    },
+    {
+        "id": 18,
+        "nombre": "Curry Madras Premium Especias del Mundo 60g",
+        "precio": 5200,
+        "categoria": "Especias",
+        "stock": 60,
+        "descripcion": "Mezcla auténtica de 14 especias importadas y seleccionadas. Nivel de picor medio (3/5). Contiene cúrcuma, cilantro, comino y fenogreco. Versión especial para carnes y arroces. Envase metálico con dosificador."
+    },
+    {
+        "id": 19,
+        "nombre": "Tomate Triturado Noel 400g",
+        "precio": 2800,
+        "categoria": "Conservas",
+        "stock": 200,
+        "descripcion": "Tomates perita seleccionados de Mendoza, triturados con piel para mayor textura. Sin conservantes ni aditivos. Ideal para pizzas, salsas y guisos. Equivale a 1kg de tomate fresco. Certificado sin TACC."
+    },
+    {
+        "id": 20,
+        "nombre": "Yogur Bebible Serenísimo con Cereales 1L",
+        "precio": 3800,
+        "categoria": "Lácteos",
+        "stock": 180,
+        "descripcion": "Yogur líquido semidesnatado con copos de cereal integrados. Probióticos naturales, fuente de calcio y vitamina D. Sabor natural ligeramente dulce. Presentación práctica con tapa rosca. Conservar refrigerado."
+    }
+]
