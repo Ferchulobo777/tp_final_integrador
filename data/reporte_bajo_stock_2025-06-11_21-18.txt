@@ -1,0 +1,12 @@
+============================================================
+            REPORTE DE PRODUCTOS CON BAJO STOCK             
+============================================================
+
+Umbral de stock: ≤ 30 unidades
+
+ID	NOMBRE	PRECIO	STOCK	CATEGORIA
+------------------------------------------------------------
+16	Salmón Rosado Ahumado Mar del Plata 200g	18500	30	Pescadería
+
+Total de productos: 1
+Fecha de generación: 2025-06-11 21:18:46

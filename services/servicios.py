@@ -3,7 +3,7 @@ from utils.archivo_json import cargar_datos, guardar_datos
 from utils.archivo_txt import generar_reporte_txt
 from datetime import datetime
 
-ruta_json = "json/productos.json"
+ruta_json = "data/productos.json"
 cargar_datos(ruta_json)
 
 # ---------------------------------------------------------------------------- #
@@ -260,7 +260,7 @@ def reportar_bajo_stock():
     mostrar_opcion("¿Desea generar un reporte en archivo TXT? (si/no): ")
     if input().strip().lower() == 'si':
         fecha_actual = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        nombre_archivo = f"reportes/reporte_bajo_stock_{fecha_actual}.txt"
+        nombre_archivo = f"data/reporte_bajo_stock_{fecha_actual}.txt"
         
         # Definir campos para el reporte
         campos = ['id', 'nombre', 'precio', 'stock', 'categoria']
