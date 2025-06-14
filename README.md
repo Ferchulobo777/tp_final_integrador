@@ -19,7 +19,7 @@ Este proyecto consiste en el desarrollo de una **aplicación de consola** para c
 - ✏️ **Modificación** de productos existentes.
 - 🗑️ **Eliminación** de productos por ID.
 - 🔎 **Búsqueda** por nombre o ID.
-- 📊 **Reportes simples**: stock total, productos con bajo stock, promedio de precios, etc.
+- 📊 **Reportes simples**: productos con bajo stock.
 
 ---
 
@@ -31,6 +31,7 @@ Este proyecto consiste en el desarrollo de una **aplicación de consola** para c
   - Tablas atractivas y legibles.
 - 💾 **Persistencia de datos**:
   - Lectura y escritura automática de datos usando archivos `.json`.
+  - Generación de reportes mediante elección del usuario usando archivos `.txt`
 
 ---
 
@@ -41,7 +42,6 @@ Este proyecto consiste en el desarrollo de una **aplicación de consola** para c
 - ✅ Interacción mediante **menús por consola**.
 - ✅ Manejo de archivos con formato **JSON**.
 - ✅ Reporte de Bajo Stock con formato **TXT**.
-
 - ✅ Librería externa: [`rich`](https://pypi.org/project/rich/).
 
 ---
@@ -67,30 +67,19 @@ Aplicar de forma práctica los contenidos aprendidos durante la cursada, desarro
 
 ---
 
-## 📸 Capturas de Ejemplo (opcional)
-
-<details>
-<summary>📷 Mostrar ejemplos de ejecución</summary>
-
-_Agregá aquí imágenes del menú principal, listados de productos, o cualquier parte destacada del sistema._
-
-</details>
-
----
-
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
    ```
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Ferchulobo777/tp_final_integrador
 
    ```
 
-2. Instalar la librería rich si no está instalada:
+2. Instalar la librería rich si no está instalada con el archivo requiriments:
 
    ```
-   pip install rich
+   pip install -r requiriments
 
    ```
 
